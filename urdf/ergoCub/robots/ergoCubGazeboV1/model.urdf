@@ -13,7 +13,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="root_link_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -39,7 +39,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_hip_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -73,7 +73,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_hip_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -107,7 +107,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_hip_3_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -140,7 +140,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_upper_leg_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -176,7 +176,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_lower_leg_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -212,7 +212,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_ankle_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -247,7 +247,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_ankle_2_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -280,7 +280,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_foot_rear_color">
-        <color rgba="1 0.51 0.0 1" />
+        <color rgba="1 0.51 0.0 0.5" />
       </material>
     </visual>
     <collision>
@@ -317,7 +317,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_foot_front_color">
-        <color rgba="1 0.51 0.0 1" />
+        <color rgba="1 0.51 0.0 0.5" />
       </material>
     </visual>
     <collision>
@@ -348,7 +348,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_hip_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -383,7 +383,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_hip_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -419,7 +419,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_hip_3_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -451,7 +451,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_upper_leg_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -486,7 +486,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_lower_leg_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -523,7 +523,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_ankle_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -559,7 +559,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_ankle_2_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -593,7 +593,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_foot_front_color">
-        <color rgba="1 0.51 0.0 1" />
+        <color rgba="1 0.51 0.0 0.5" />
       </material>
     </visual>
     <collision>
@@ -623,7 +623,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_foot_rear_color">
-        <color rgba="1 0.51 0.0 1" />
+        <color rgba="1 0.51 0.0 0.5" />
       </material>
     </visual>
     <collision>
@@ -661,7 +661,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="torso_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -695,7 +695,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="torso_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -729,7 +729,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="chest_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -764,7 +764,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="neck_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -799,7 +799,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="neck_3_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -833,7 +833,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="head_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -883,7 +883,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="green">
-        <color rgba="0 1 0 1" />
+        <color rgba="0 1 0 0.5" />
       </material>
     </visual>
     <collision>
@@ -934,7 +934,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_shoulder_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -970,7 +970,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_shoulder_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -1006,7 +1006,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_shoulder_3_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -1040,7 +1040,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="black">
-        <color rgba="0 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1076,7 +1076,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_forearm_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1112,7 +1112,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="r_wrist_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -1148,7 +1148,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="red">
-        <color rgba="1 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1184,7 +1184,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="blue">
-        <color rgba="0 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1220,7 +1220,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="yellow">
-        <color rgba="1 1 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1257,7 +1257,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="pink">
-        <color rgba="1 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1293,7 +1293,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="cyan">
-        <color rgba="0 1 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1329,8 +1329,8 @@
         <mesh filename="package://ergoCub/meshes/simmechanics/sim_ecub_r_hand_thumb_2_prt.stl"
           scale="0.001 0.001 0.001" />
       </geometry>
-      <material name="green">
-        <color rgba="0 1 0 1" />
+      <material name="dgreen">
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1367,7 +1367,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="white">
-        <color rgba="1 1 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1499,7 +1499,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="dblue">
-        <color rgba="0 0 0.8 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1536,7 +1536,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="dgreen">
-        <color rgba="0.1 0.8 0.1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1669,7 +1669,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="gray">
-        <color rgba="0.5 0.5 0.5 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1705,8 +1705,8 @@
         <mesh filename="package://ergoCub/meshes/simmechanics/sim_ecub_r_hand_ring_2_prt.stl"
           scale="0.001 0.001 0.001" />
       </geometry>
-      <material name="green">
-        <color rgba="0 1 0 1" />
+      <material name="dgreen">
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1838,7 +1838,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="black">
-        <color rgba="0 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1875,7 +1875,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="red">
-        <color rgba="1 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -1911,7 +1911,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="blue">
-        <color rgba="0 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2043,7 +2043,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_shoulder_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -2080,7 +2080,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_shoulder_2_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -2116,7 +2116,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_shoulder_3_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -2150,7 +2150,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="yellow">
-        <color rgba="1 1 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2186,7 +2186,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_forearm_color">
-        <color rgba="0.3 0.3 0.3 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2222,7 +2222,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="l_wrist_1_color">
-        <color rgba="0.9 0.9 0.9 1" />
+        <color rgba="0.9 0.9 0.9 0.5" />
       </material>
     </visual>
     <collision>
@@ -2258,7 +2258,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="pink">
-        <color rgba="1 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2294,7 +2294,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="cyan">
-        <color rgba="0 1 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2329,8 +2329,8 @@
         <mesh filename="package://ergoCub/meshes/simmechanics/sim_ecub_l_hand_ring_1_prt.stl"
           scale="0.001 0.001 0.001" />
       </geometry>
-      <material name="green">
-        <color rgba="0 1 0 1" />
+      <material name="dgreen">
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2367,7 +2367,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="white">
-        <color rgba="1 1 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2499,7 +2499,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="dblue">
-        <color rgba="0 0 0.8 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2536,7 +2536,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="dgreen">
-        <color rgba="0.1 0.8 0.1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2572,7 +2572,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="gray">
-        <color rgba="0.5 0.5 0.5 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2703,8 +2703,8 @@
         <mesh filename="package://ergoCub/meshes/simmechanics/sim_ecub_l_hand_middle_1_prt.stl"
           scale="0.001 0.001 0.001" />
       </geometry>
-      <material name="green">
-        <color rgba="0 1 0 1" />
+      <material name="dgreen">
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2739,7 +2739,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="black">
-        <color rgba="0 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2872,7 +2872,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="red">
-        <color rgba="1 0 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2909,7 +2909,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="blue">
-        <color rgba="0 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -2946,7 +2946,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="yellow">
-        <color rgba="1 1 0 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -3078,7 +3078,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="pink">
-        <color rgba="1 0 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
@@ -3115,7 +3115,7 @@
           scale="0.001 0.001 0.001" />
       </geometry>
       <material name="cyan">
-        <color rgba="0 1 1 1" />
+        <color rgba="0.3 0.3 0.3 0.5" />
       </material>
     </visual>
     <collision>
